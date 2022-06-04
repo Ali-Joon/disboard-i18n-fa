@@ -1,7 +1,7 @@
 {
 	"tagline": "دیسبورد: لیست سرور های عمومی",
 	"inviteChanged": "لینک دعوت به {{ inviteChannel }} تغییر یافت. :sparkles:",
-	"bumpDone": "افزودن با موفقیت انجام شد!",
+	"bumpDone": "با موفقیت افزوده شد!",
 	"checkOnDisboard": {
 		"embed": "[در دیسبورد]({{ link }}) این را مشاهده کنید.",
 		"text": "در دیسبورد این را مشاهده کنید: {{ link }}."
